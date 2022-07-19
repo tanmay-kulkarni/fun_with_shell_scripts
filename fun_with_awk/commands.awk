@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Print the whole file as is
 awk '{print}' annual-enterprise-survey-2021-financial-year-provisional.csv
 
